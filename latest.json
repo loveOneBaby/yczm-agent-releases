@@ -1,10 +1,10 @@
 {
   "schemaVersion": 1,
-  "version": "0.3.12",
-  "build": 22,
-  "downloadURL": "https://github.com/loveOneBaby/yczm-agent-releases/releases/download/v0.3.12/yczm-agent-macos-arm64.zip",
-  "sha256": "1898ea9e9210f76e290d144d6308f55cdd7819056e82012c100c6a71eec14b2a",
-  "sizeBytes": 14485767,
+  "version": "0.3.13",
+  "build": 24,
+  "downloadURL": "https://github.com/loveOneBaby/yczm-agent-releases/releases/download/v0.3.13/yczm-agent-macos-arm64.zip",
+  "sha256": "e78d2d37f3014d3c0403f095f4d670601e2be95621047a72bce7a0f56e05cc56",
+  "sizeBytes": 14504332,
   "minimumOS": "14.0",
-  "releaseNotes": "YCZM Agent 0.3.12"
+  "releaseNotes": "YCZM Agent 0.3.13"
 }
